@@ -1,0 +1,12 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAiMgMAAAAAACGZsgAAAAAAGZsZgwAAAAAdsdmyAAAgIh4Z2zGAACId3h3bMYAgHh3hndoxgCAZ2F3hmfGAIAX/3d3d8aAiPePR3d3x3iMd2dEd3fHh4B3ZkR3d4cIAGhERHd3iAAA8ExEeGcIAAAAAISAiAAAAAAACAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "green_duck"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
